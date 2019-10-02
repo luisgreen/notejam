@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('page_title')
-Sign In - By Luis - 2
+Sign In - By Toptal
 @stop
 
 @section('content')
